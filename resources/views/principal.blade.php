@@ -75,6 +75,8 @@
         
         <button class="commit-btn" data-target="c2">Orígenes</button>
         <div class="commit-meta">Lugar de nacimiento, padres, hermanos</div>
+         <button class="commit-btn" data-target="c3">Niñez</button>
+        <div class="commit-meta">Narración de mi niñez</div>
       </aside>
 
       <!-- Canvas -->
@@ -98,6 +100,17 @@
           </div>
           <div class="section">
             <h3>Soy de Bucaramanga, he vivido aqui toda mi vida y mis papas tambien</h3>
+            
+          </div>
+         
+        </article>
+        <article id="c3" class="commit-view">
+          <div class="card-title">
+            <div class="badge">3</div>
+            <h2>Mi Niñez</h2>
+          </div>
+          <div class="section">
+            <h3>En mi niñez jugue mucho futbol y reia mucho</h3>
             
           </div>
          

@@ -165,6 +165,8 @@
           <div class="section">
             <h3>Habilidad 1:</h3>
             <p>Pensamiento Critico</p>
+            <br> <h3>Habilidad 2:</h3>
+            <p>Resolucion de Problemas</p>
             <br>
             
           </div>

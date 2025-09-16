@@ -88,6 +88,8 @@
         
         <button class="commit-btn" data-target="c8">Habilidades</button>
         <div class="commit-meta">Mis Habilidades</div>
+        <button class="commit-btn" data-target="c9">Estudios</button>
+        <div class="commit-meta">Mis Estudios</div>
       </aside>
 
       <!-- Canvas -->
@@ -192,6 +194,22 @@
             <br>
              <h3>Habilidad 3:</h3>
             <p>Comunicacion efectiva</p>
+          </div>
+            </article>
+         <article id="c9" class="commit-view">
+          <div class="card-title">
+            <div class="badge">9</div>
+            <h2>Mis estudios</h2>
+          </div>
+          <div class="section">
+            <h3>Estudio 1:</h3>
+            <p>Me gradue de Transicion</p>
+            <br>
+             <h3>Estudio 2:</h3>
+            <p>Me gradue de Secundaria</p>
+            <br>
+            <h3>Estudio 3:</h3>
+            <p>Me voy a graduar como ingeniero de sistemas</p>
             <br>
             
           </div>

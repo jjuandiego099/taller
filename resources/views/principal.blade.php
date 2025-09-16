@@ -168,6 +168,9 @@
             <br> <h3>Habilidad 2:</h3>
             <p>Resolucion de Problemas</p>
             <br>
+             <h3>Habilidad 3:</h3>
+            <p>Comunicacion efectiva</p>
+            <br>
             
           </div>
          

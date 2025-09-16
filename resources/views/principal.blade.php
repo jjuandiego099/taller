@@ -164,7 +164,10 @@
           </div>
           <div class="section">
             <h3>Estudio 1:</h3>
-            <p>Me gardue de Transicion</p>
+            <p>Me gradue de Transicion</p>
+            <br>
+             <h3>Estudio 2:</h3>
+            <p>Me gradue de Secundaria</p>
             <br>
             
           </div>

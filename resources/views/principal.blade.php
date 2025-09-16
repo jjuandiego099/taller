@@ -86,6 +86,8 @@
         <button class="commit-btn" data-target="c7">Laboral</button>
         <div class="commit-meta">Experiencias Laborales</div>
         
+        <button class="commit-btn" data-target="c8">Habilidades</button>
+        <div class="commit-meta">Mis Habilidades</div>
       </aside>
 
       <!-- Canvas -->
@@ -172,6 +174,25 @@
             <br>
              <h3>Experiencia 3:</h3>
             <p>No tengo experiencia</p>
+            
+          </div>
+          
+         
+        </article>
+        <article id="c8" class="commit-view">
+          <div class="card-title">
+            <div class="badge">8</div>
+            <h2>Mis Habilidades</h2>
+          </div>
+          <div class="section">
+            <h3>Habilidad 1:</h3>
+            <p>Pensamiento Critico</p>
+            <br> <h3>Habilidad 2:</h3>
+            <p>Resolucion de Problemas</p>
+            <br>
+             <h3>Habilidad 3:</h3>
+            <p>Comunicacion efectiva</p>
+            <br>
             
           </div>
          

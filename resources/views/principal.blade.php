@@ -166,6 +166,9 @@
           <div class="section">
             <h3>Experiencia 1:</h3>
             <p>No tengo experiencia</p>
+            <br>
+             <h3>Experiencia 2:</h3>
+            <p>No tengo experiencia</p>
             
           </div>
          

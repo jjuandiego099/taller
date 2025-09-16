@@ -77,6 +77,8 @@
         <div class="commit-meta">Lugar de nacimiento, padres, hermanos</div>
          <button class="commit-btn" data-target="c3">Niñez</button>
         <div class="commit-meta">Narración de mi niñez</div>
+        <button class="commit-btn" data-target="c4">Adolescencia</button>
+        <div class="commit-meta">Experiencias y aprendizajes</div>
       </aside>
 
       <!-- Canvas -->
@@ -111,6 +113,18 @@
           </div>
           <div class="section">
             <h3>En mi niñez jugue mucho futbol y reia mucho</h3>
+            
+          </div>
+         
+        </article>
+        </article>
+        <article id="c4" class="commit-view">
+          <div class="card-title">
+            <div class="badge">4</div>
+            <h2>Mi Adolesencia</h2>
+          </div>
+          <div class="section">
+            <h3>En mi Adolesencia disfrute mucho de la vida y vivi una pandemia/h3>
             
           </div>
          

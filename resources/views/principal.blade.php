@@ -169,6 +169,9 @@
              <h3>Estudio 2:</h3>
             <p>Me gradue de Secundaria</p>
             <br>
+            <h3>Estudio 3:</h3>
+            <p>Me voy a graduar como ingeniero de sistemas</p>
+            <br>
             
           </div>
          

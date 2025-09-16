@@ -83,6 +83,9 @@
         <div class="commit-meta">A qué te dedicas hoy</div>
          <button class="commit-btn" data-target="c6">Metas</button>
         <div class="commit-meta">Aspiraciones y metas</div>
+        <button class="commit-btn" data-target="c7">Laboral</button>
+        <div class="commit-meta">Experiencias Laborales</div>
+        
       </aside>
 
       <!-- Canvas -->
@@ -151,6 +154,24 @@
           </div>
           <div class="section">
             <h3>Mis metas son graduarme y comprarme un dodge challenger demon 170</h3>
+            
+          </div>
+         
+        </article>
+        <article id="c7" class="commit-view">
+          <div class="card-title">
+            <div class="badge">7</div>
+            <h2>Experiencias Laborales</h2>
+          </div>
+          <div class="section">
+            <h3>Experiencia 1:</h3>
+            <p>No tengo experiencia</p>
+            <br>
+             <h3>Experiencia 2:</h3>
+            <p>No tengo experiencia</p>
+            <br>
+             <h3>Experiencia 3:</h3>
+            <p>No tengo experiencia</p>
             
           </div>
          
